@@ -31,7 +31,7 @@
 - ![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/Developer.gif)
 
 <!--
-**SNIGDHO-XD/SNIGDHO-XD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SNIGDHO-CYBER404/SNIGDHO-CYBER404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
@@ -51,10 +51,10 @@ Here are some ideas to get you started:
 
 > MY PROFILE VISITORS :
 
-![Visitor Count](https://profile-counter.glitch.me/SNIGDHO-XD/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/SNIGDHO-CYBER404/count.svg)
 
-- ![Profile views](https://gpvc.arturio.dev/SNIGDHO-XD)
-- [![GitHub followers](https://img.shields.io/github/followers/SNIGDHO-XD.svg?style=social&label=Follow&maxAge=0090900)](https://github.com/Naim75o?tab=followers)
+- ![Profile views](https://gpvc.arturio.dev/SNIGDHO-CYBER404)
+- [![GitHub followers](https://img.shields.io/github/followers/SNIGDHO-CYBER404.svg?style=social&label=Follow&maxAge=0090900)](https://github.com/Naim75o?tab=followers)
 
 ![Alt text](https://camo.githubusercontent.com/bdc2bf0e7c954ae3cecff56b9712a4411a87c014780b8de8ee050f4f6a3c7b55/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174736170702d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070)
 
@@ -62,9 +62,9 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/naiyan-official"><img width=550 src="https://github-profile-trophy.vercel.app/?username=niloy0&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SNIGDHO-XD&theme=merko)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SNIGDHO-CYBER404&theme=merko)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SNIGDHO-XD=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SNIGDHO-CYBER404=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MohsinTheLegend&layout=compact&theme=chartreuse-dark" />
 
